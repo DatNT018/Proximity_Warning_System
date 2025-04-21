@@ -1,2 +1,3 @@
 # Proximity-Warning-System
-cool project
+
+This is a project that i have did on my intern
